@@ -1,4 +1,16 @@
 {
+    "users":
+    [
+        {
+            "id":1,
+            "user":"jagadeesh",
+            "email":"jagadeesh@gmail.com",
+            "password":"Yadav143kv",
+            "task":["attend mock","complete assignment"]   
+        }
+    ]
+    ,
+
     "jobs":[
         {
             "id":1,
